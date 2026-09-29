@@ -1,0 +1,4 @@
+username,password,expected
+valid_user,ValidPass123,success
+invalid_user,WrongPass,login_error
+blank_user,,validation_error

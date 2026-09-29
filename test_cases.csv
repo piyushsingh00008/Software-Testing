@@ -1,0 +1,8 @@
+TestCaseID,Module,Scenario,ExpectedResult,Priority
+TC-LOGIN-01,Login,Valid login,User logs in successfully,High
+TC-LOGIN-02,Login,Invalid password,Error displayed,High
+TC-SEARCH-01,Search,Valid product search,Relevant products displayed,Medium
+TC-CART-01,Cart,Add product,Product appears in cart,High
+TC-CART-02,Cart,Remove product,Product removed and total updated,High
+TC-CHK-01,Checkout,Valid checkout,Order confirmation displayed,High
+TC-CHK-02,Checkout,Invalid email,Validation message displayed,Medium
